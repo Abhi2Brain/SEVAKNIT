@@ -47,11 +47,13 @@ const Navbar = (props) => {
             <li style={{ float: "right" }}>
               <Link to="/contact-us">CONTACT US</Link>
             </li>
-            {localStorage.getItem("token") && (
+          {localStorage.getItem("token") ? (
               <li style={{ float: "right" }}>
                 <Link to="/admin/dashboard">Admin-Dashboard</Link>
               </li>
-            )}
+            ):(<li style={{ float: "right" }}>
+            <Link to="/admin/login">LOGIN</Link>
+          </li>)}
           </ul>
         </div>
       </nav>
