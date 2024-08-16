@@ -23,7 +23,7 @@ const AdminDashboard = (p) => {
       <div className={`col-md-10 m-auto border ${styles.container}`}>
         <img src={user} className={`${styles.image}`} alt="userIcon" />
         <h2 className={`${styles.text}`}>Admin Dashboard</h2>
-        <b>{email}</b>
+        <b>sevaknit@gmail.com</b>
         <hr />
         <button
           className="btn btn-warning m-2"
