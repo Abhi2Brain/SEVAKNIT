@@ -67,27 +67,27 @@ const Footer = () => {
             >
               Abhishek Kumar
             </a>
-            {/* <br />
-            <a
+              <a
               className={`${styles.name}`}
-              href="https://www.linkedin.com/in/vivekkamboj1/"
+              href="https://www.linkedin.com/in/ayush2609/"
               target="_blank"
               rel="noreferrer"
             >
-              Vivek Kamboj
-            </a> */}
-            <br />
-            <br /> 
-             <span style={{ fontWeight: "bolder" }}>Designed By </span>
-            <br />
-            <a
-              className={`${styles.name}`}
-              href="https://www.linkedin.com/in/anup-kumar-gond-b9417622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
-              target="_blank"
-              rel="noreferrer"
-            >
-              Anup Kumar Gond
+              Ayush Agrawal
             </a>
+    
+            <br />
+{/*             <br />  */}
+{/*              <span style={{ fontWeight: "bolder" }}>Designed By </span> */}
+{/*             <br /> */}
+{/*             <a
+              className={`${styles.name}`}
+              href="https://www.linkedin.com/in/ayush2609/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ayush Agrawal
+            </a> */}
           </p>
           <p>
             For any queries, reach out to us at email
