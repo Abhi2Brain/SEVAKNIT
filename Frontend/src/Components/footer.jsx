@@ -61,7 +61,7 @@ const Footer = () => {
             <br />
             <a
               className={`${styles.name}`}
-              href="https://www.linkedin.com/in/anup-kumar-gond/"
+              href="https://www.linkedin.com/in/abhishek-kumar-4b1470216/"
               target="_blank"
               rel="noreferrer"
             >
@@ -70,7 +70,7 @@ const Footer = () => {
                <br />
               <a
               className={`${styles.name}`}
-              href="https://www.linkedin.com/in/ayush2609/"
+              href="https://www.linkedin.com/in/anup-kumar-gond/"
               target="_blank"
               rel="noreferrer"
             >
