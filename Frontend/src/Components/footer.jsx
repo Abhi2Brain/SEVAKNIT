@@ -78,17 +78,6 @@ const Footer = () => {
             </a>
     
             <br />
-{/*             <br />  */}
-{/*              <span style={{ fontWeight: "bolder" }}>Designed By </span> */}
-{/*             <br /> */}
-{/*             <a
-              className={`${styles.name}`}
-              href="https://www.linkedin.com/in/ayush2609/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Ayush Agrawal
-            </a> */}
           </p>
           <p>
             For any queries, reach out to us at email
