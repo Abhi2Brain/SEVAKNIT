@@ -74,7 +74,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Ayush Agrawal
+              Anup Kumar Gond
             </a>
     
             <br />
